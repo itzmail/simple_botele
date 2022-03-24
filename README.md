@@ -2,8 +2,8 @@
 
 ### Read README first, before you die........
 
-no i'm just kiding... xD
+_no i'm just kiding... xD_
 
 you can just click button on below for demo
 
-[SimpleBot]("http://t.me/KoweEdantenannBot")
+[SimpleBot](http://t.me/KoweEdantenannBot)
